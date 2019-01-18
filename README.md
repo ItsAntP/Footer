@@ -1,6 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+### Windows Users
+I recommend downloading [cmder](http://cmder.net/). It's a bash emulator so you can easily follow along with terminal commands, like apple/linux users.
+
+### NPM
+please install the latest version of [NPM](https://www.npmjs.com/)
+Once you have NPM ready to go, create a Fork and clone your project folder locally.
+
 ## Available Scripts
+
+### `npm i` 
+Once you have cloned the repo, you'll need to install all the dependencies for the project.<br>
+Run this command to get started.
 
 In the project directory, you can run:
 
