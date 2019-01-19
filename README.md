@@ -1,6 +1,29 @@
+# Medicinal Foods - React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+### Windows Users
+I recommend downloading [cmder](http://cmder.net/). It's a bash emulator so you can easily follow along with terminal commands, like apple/linux users.
+
+### NPM
+please install the latest version of [NPM](https://www.npmjs.com/)
+
+### Git
+The project repo is on Bitbucket. Go to the project folder, "react_test", and create a Fork of the project.
+To create a Fork, click the + sign on the left side bar of the screen.
+This will open your copy of the repo. Follow the instructions to "git clone" your repo 
+to your local computer. <br>
+Make commits often! 
+<br>
+push your commits to your bitbucket repo and then Create A Pull Request from the side bar again. 
+Please make your PR's to the relevant feature branch or development branch. Never the Master branch!
+
 ## Available Scripts
+
+### `npm i` 
+Once you have cloned the repo, you'll need to install all the dependencies for the project.<br>
+Run this command to get started.
 
 In the project directory, you can run:
 
