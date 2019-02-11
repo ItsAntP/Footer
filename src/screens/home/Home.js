@@ -6,13 +6,12 @@ class Home extends React.Component {
     render() {
         return(
             <React.Fragment>
-       			<CssBaseline />
-				{/* HEADER */}
+       		<CssBaseline />
+		{/* HEADER */}
                	<Link to="/about" className="link">Go to About</Link>
             	
-
-				{/* FOOTER */}
-			</React.Fragment>
+		{/* FOOTER */}
+	    </React.Fragment>
         );
     }
 }
