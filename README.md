@@ -2,6 +2,39 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Structure
+this is a rough outline of how the project will be structured.
+```
+src/
+	assets/
+		img/
+		icons/
+		fonts/
+	components/
+		header/
+			Header.js
+			Header.scss
+		footer/
+		etc/
+	screens/
+		home/
+			HomeScreen.js
+			HomeScreen.scss
+			homeReducer.js
+			HomeActions.js
+		details/
+		about/
+		etc/
+
+test/
+	components/
+		header/
+			HeaderTest.js
+	screens/
+		home/
+			HomeTest.js
+```
+
 ## Getting Started
 ### Windows Users
 I recommend downloading [cmder](http://cmder.net/). It's a bash emulator so you can easily follow along with terminal commands, like apple/linux users.
@@ -16,7 +49,7 @@ This will open your copy of the repo. Follow the instructions to "git clone" you
 to your local computer. <br>
 Make commits often!
 <br>
-Push your commits to your bitbucket repo and then Create A Pull Request from the side bar again. 
+Push your commits to your bitbucket repo and then Create A Pull Request from the side bar again.
 Please make your PR's to the relevant feature branch or development branch. Never the Master branch!
 
 ## Available Scripts
