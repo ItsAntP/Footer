@@ -11,10 +11,10 @@ import About from './screens/about/About.js';
 
 ReactDOM.render(
     <BrowserRouter basename={process.env.PUBLIC_URL}>
-        <div>
+        <React.Fragment>
             <Route exact path="/" component={Home} />
             <Route path="/about" component={About} />
-        </div>
+        </React.Fragment>
     </BrowserRouter>,
     
     document.getElementById('root'));
