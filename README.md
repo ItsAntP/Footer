@@ -2,6 +2,38 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Structure
+
+src/
+	assets/
+		img/
+		icons/
+		fonts/
+	components/
+		header/
+			Header.js
+			Header.scss
+		footer/
+		etc/
+	screens/
+		home/
+			HomeScreen.js
+			HomeScreen.scss
+			homeReducer.js
+			HomeActions.js
+		details/
+		about/
+		etc/
+
+test/
+	components/
+		header/
+			HeaderTest.js
+	screens/
+		home/
+			HomeTest.js
+
+
 ## Getting Started
 ### Windows Users
 I recommend downloading [cmder](http://cmder.net/). It's a bash emulator so you can easily follow along with terminal commands, like apple/linux users.
