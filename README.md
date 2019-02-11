@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Project Structure
-this is a rough outline of how the project will be structured.
+this is a rough outline of how the project will be structured. Test files will be added to relevant folder and will be affixed with the ending [.test.js] or [.spec.js]
 ```
 src/
 	assets/
@@ -14,25 +14,21 @@ src/
 		header/
 			Header.js
 			Header.scss
+			Header.test.js
+			Header.spec.js
 		footer/
 		etc/
 	screens/
 		home/
-			HomeScreen.js
-			HomeScreen.scss
+			Home.js
+			Home.scss
 			homeReducer.js
 			HomeActions.js
+			Home.test.js
+			Home.spec.jc
 		details/
 		about/
 		etc/
-
-test/
-	components/
-		header/
-			HeaderTest.js
-	screens/
-		home/
-			HomeTest.js
 ```
 
 ## Getting Started
