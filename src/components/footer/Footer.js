@@ -29,7 +29,7 @@ import green from '@material-ui/core/colors/green';
          <MuiThemeProvider theme = {theme}>
           <h2>Copywright of CrowdDoing Medicinal Foods 2019!</h2>
             <h3>All Rights Reserved!</h3>
-              <h4>Thanks for visitng!</h4>
+              <h4>Thanks For Visitng!</h4>
                 <br></br>
                   <br></br>
                     <br></br>
